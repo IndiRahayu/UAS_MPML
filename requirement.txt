@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-numpy==1.26.4
-pandas==2.2.2
-streamlit
-pickle
-scikit-learn
-pip==23.3.1
-=======
 numpy==1.26.4
 pandas==2.2.2
 streamlit
 scikit-learn
-pip==23.3.1
->>>>>>> 7dc4e505cdfa800af8cd849bc730c000c40372be
+pip==24.1.2
